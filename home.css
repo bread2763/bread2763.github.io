@@ -1,6 +1,6 @@
 body {
     background-image: url("2000s cool.jpg");
-    background-repeat: repeat-y;
+    background-size: cover;
 }
 
 .content {
