@@ -7,9 +7,9 @@ body {
     padding: 10px;
     width: 800px;
     position:relative;
-    background: rgb(0, 0, 0, 0); 
-    font-family: Comic Sans MS;
-    color: aliceblue;
+    background: rgb(255, 255, 255, 0); 
+    font-family: Times New Roman;
+    color: black;
     font-size: 20px;
     max-width: 600px;
     margin: auto;
