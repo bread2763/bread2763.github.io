@@ -7,30 +7,14 @@ body {
     padding: 10px;
     width: 800px;
     position:relative;
-    background: rgba(255, 255, 255, 100); 
-    font-family: Times New Roman;
-    color: black;
+    background: rgb(173, 170, 170); 
+    color: rgb(26, 163, 226);
     font-size: 20px;
     max-width: 600px;
     margin: auto;
     border-style: inset;
     border-width: 200;
     border-color: rgb(110, 203, 206) 
-}
-.content-header {
-    padding: 40px;
-    width: 800px;
-    position:relative;
-    background: rgba(0, 0, 0, 0); 
-    font-family: Comic Sans MS;
-    color: aliceblue;
-    max-width: 600px;
-    margin: auto;
-    text-align:center;
-    font-size: 80px;
-    border-style: inset;
-    border-width: 200;
-    border-color: rgb(110, 203, 206) ; 
 }
 
 .spinnyweeeeeeeee {

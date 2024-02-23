@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           @keyframes spin {
+                from {
+                transform:rotate(0deg); font-size: 0px; opacity: 0;
+            }
+                to {
+                transform:rotate(360deg); font-size:50px; opacity: 100;
+            }
+            
+            
+           }
+
+           h1 {
+                font-family:Arial, Helvetica, sans-serif;
+                text-align: center;
+                font-size: 50px;
+                animation: spin linear 1.5s 1 ;
+           }
+            
+           .rightbox {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                top: 70px;
+                animation: fade linear 1 2 ;
+           }
+
+           @keyframes fade {
+                from {opacity: 0; }
+                to {opacity: 100; }
+           } 
+        </style>
+    </head>
+    <body>
+        <h1>you just lost the game</h1>
+            <img src="pictures/shinji.jpg" class="rightbox">
+    </body>
+</html>
